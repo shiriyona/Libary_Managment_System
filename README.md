@@ -1,5 +1,6 @@
 # Libary_Managment_System
 
-![image](https://user-images.githubusercontent.com/88319291/127845752-fa984a5b-4eaa-40f3-be93-d6da35ddbee1.png)
-![image](https://user-images.githubusercontent.com/88319291/127845791-ce9f4406-3ee9-4694-8603-d43fce04372d.png)
-![image](https://user-images.githubusercontent.com/88319291/127845853-374302a7-ebfb-43c9-86c0-30f7e99039a5.png)
+![image](https://user-images.githubusercontent.com/88319291/127861538-ed8233be-c094-4bbb-a8b7-719ab6130fa8.png)
+![image](https://user-images.githubusercontent.com/88319291/127861578-4caf9e3d-f67f-4f03-9a57-378957e4dc9d.png)
+![image](https://user-images.githubusercontent.com/88319291/127861623-7b89935a-7fad-452a-af0e-349abdde9870.png)
+
